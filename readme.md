@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **C++, Python**
 
-- 🤝 I’m looking for help with: [ToolkitTCGM](https://github.com/dtcu0ng/ToolkitTCGM)
-
 - 💬 Ask me about: **HTML, Batch and AutoIT**
 
 - 📫 How to reach me: **dtcuong205@yahoo.com**
