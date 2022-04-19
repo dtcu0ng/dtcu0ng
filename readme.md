@@ -9,5 +9,5 @@
 
 - Ask me about: **HTML, Batch and AutoIT**
 
-- How to reach me: **dtcuong205@yahoo.com**
+- How to reach me: **interminevn@gmail.com**
 
