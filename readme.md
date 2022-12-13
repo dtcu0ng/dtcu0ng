@@ -1,13 +1,27 @@
-<h1 align="center">Hi, I'm dtcu0ng</h1>
+```Hi, I'm Cuong```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dtcu0ng" alt="dtcu0ng" /> </p>
 
-- I’m currently working on: nothing.
+```
++ human, from Hanoi, Vietnam, Earth
++ 17 years old, additcted to code.
++ hobby: research about computer science/infomation technology and listen to music.
++ usually build and break machines and everything relevant to computer.
++ lazy af
++ many more.... (still updating)
+```
 
-- Previously [UNWDS](https://github.com/UnnamedNetwork/UNWDS) (now archived because I don't have time to maintain this.)
 
-- I’m currently learning: **C++, Python**
 
-- Ask me about: **HTML, Batch and AutoIT**
 
-- How to reach me: **interminevn@gmail.com**
+
+| ```Github Stats```  | ```Streaks``` |
+| ------------- | ------------- |
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtcu0ng&show_icons=true&locale=en" alt="dtcu0ng" /></p>  | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtcu0ng&" alt="dtcu0ng" /></p>  |
+
+```Contact me```
+
+```
++ via email: interminevn@gmail.com
++ social network (tw, fb, ig and some others): @dtcu0ng
+```
 
