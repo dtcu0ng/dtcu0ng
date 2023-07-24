@@ -3,9 +3,9 @@
 
 ```
 + human, from Hanoi, Vietnam, Earth
-+ 17 years old, additcted to code.
-+ hobby: research about computer science/infomation technology and listen to music.
-+ usually build and break machines and everything relevant to computer.
++ 17 years old, addicted to code.
++ hobby: research about computer science/information technology and listen to music.
++ usually build and break machines and everything relevant to computers.
 + lazy af
 + many more.... (still updating)
 ```
@@ -21,7 +21,7 @@
 ```Contact me```
 
 ```
-+ via email: interminevn@gmail.com
++ via email: me@ctdinh.io.vn
 + social network (tw, fb, ig and some others): @dtcu0ng
 ```
 
