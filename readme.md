@@ -3,7 +3,7 @@
 
 ```
 + human, from Hanoi, Vietnam, Earth
-+ 17 years old, addicted to code.
++ 18 years old, addicted to code.
 + hobby: research about computer science/information technology and listen to music.
 + usually build and break machines and everything relevant to computers.
 + lazy af
