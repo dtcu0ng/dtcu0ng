@@ -25,3 +25,4 @@
 + social network (tw, fb, ig and some others): @dtcu0ng
 ```
 
+<a href="https://valid.x86.fr/tqzxhg"><img align="center" src="https://valid.x86.fr/cache/banner/tqzxhg-6.png" /></a>
