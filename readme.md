@@ -11,7 +11,7 @@
 ```
 
 + my PC build:
-<a href="https://valid.x86.fr/e5rx4h"><img align="center" src="https://valid.x86.fr/cache/banner/e5rx4h-2.png" /></a>
+<a href="https://valid.x86.fr/jj46hn"><img align="center" src="https://valid.x86.fr/cache/banner/jj46hn-2.png" /></a>
 
 
 
