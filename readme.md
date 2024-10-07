@@ -3,8 +3,8 @@
 
 ```
 + human, from Hanoi, Vietnam, Earth
-+ 18 years old, addicted to code.
-+ hobby: research about computer science/information technology and listen to music.
++ 19 years old, student at Hanoi University of Science and Technology (HUST) - English language major
++ hobby: researching computer/information technology and listening to music.
 + usually build and break machines and everything relevant to computers.
 + lazy af
 + many more.... (still updating)
