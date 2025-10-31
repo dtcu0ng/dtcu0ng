@@ -12,12 +12,6 @@ Hi, I'm Cuong
 <a href="https://valid.x86.fr/rsdi7x"><img align="center" src="https://valid.x86.fr/cache/banner/rsdi7x-2.png" /></a>
 
 
-
-
-| Github Stats  | Streaks |
-| ------------- | ------------- |
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dtcu0ng&show_icons=true&locale=en" alt="dtcu0ng" /></p>  | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dtcu0ng&" alt="dtcu0ng" /></p>  |
-
 Contact me
 
 
