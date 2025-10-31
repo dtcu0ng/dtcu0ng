@@ -6,8 +6,6 @@ Hi, I'm Cuong
 + 19 years old, student at Hanoi University of Science and Technology (HUST) - English language major
 + hobby: researching computer/information technology and listening to music.
 + usually build and break machines and everything relevant to computers.
-+ lazy af
-+ many more.... (still updating)
 
 
 + my PC build:
